@@ -1,0 +1,24 @@
+{
+  "name": "dropdown",
+  "version": "1.0.0",
+  "description": "Dropdown",
+  "main": "index.js",
+  "engines": {
+    "node": "6.7.0",
+    "npm": "3.10.7"
+  },
+  "scripts": {
+    "start": "node --optimize_for_size --max_old_space_size=460 --gc_interval=100 .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yalovek/dropdown.git"
+  },
+  "author": "Vadim Yalovenko <yalovek@ya.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yalovek/dropdown/issues"
+  },
+  "homepage": "https://github.com/yalovek/dropdown#readme"
+}
